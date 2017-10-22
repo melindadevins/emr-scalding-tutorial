@@ -292,14 +292,7 @@ sports.stackexchange.com
 sqa.meta.stackexchange.com
 sqa.stackexchange.com
 stackapps.com
-stackoverflow.com-Badges
-stackoverflow.com-Comments
-stackoverflow.com-PostHistory
-stackoverflow.com-PostLinks
-stackoverflow.com-Posts
-stackoverflow.com-Tags
 stackoverflow.com-Users
-stackoverflow.com-Votes
 startups.meta.stackexchange.com
 startups.stackexchange.com
 stats.meta.stackexchange.com

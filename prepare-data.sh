@@ -3,8 +3,6 @@
 S3_DESTINATION_FOLDER="grajo001log/users"
 SITES_FILE=sites.txt
 
-# https://archive.org/download/stackexchange
-
 IFS=$'\n'
 for site in `cat $SITES_FILE`
 do
