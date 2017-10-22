@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "emr-scalding-tutorial",
+    "Args": [
+      "com.softwaremill.AgeCounterJob",
+      "--input",
+      "s3://grajo001log/users/*",
+      "--output",
+      "s3://grajo001out/scaldingoutput",
+      "--hdfs"
+    ],
+    "Jar": "s3://grajo001log/scaldingtutorial.jar",
+    "ActionOnFailure": "CONTINUE",
+    "Type": "CUSTOM_JAR"
+  }
+]
+
