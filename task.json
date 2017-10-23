@@ -9,7 +9,7 @@
       "s3://grajo001out/scaldingoutput",
       "--hdfs"
     ],
-    "Jar": "s3://grajo001log/scaldingtutorial.jar",
+    "Jar": "s3://grajo001log/emr-scalding-tutorial-assembly-0.1.jar",
     "ActionOnFailure": "CONTINUE",
     "Type": "CUSTOM_JAR"
   }
